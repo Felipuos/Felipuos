@@ -1,1 +1,1 @@
-![Preview](https://github-dashboard-steel-nine.vercel.app/)
+[![Preview do Dashboard](assets/preview.png)](https://github-dashboard-steel-nine.vercel.app/)
