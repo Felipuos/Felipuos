@@ -1,1 +1,6 @@
-[![Ver Dashboard](https://img.shields.io/badge/Dashboard-Ao_Vivo-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://github-dashboard-steel-nine.vercel.app/)
+<p align="center">
+  <img
+    src="https://github-dashboard-steel-nine.vercel.app/api/github.svg"
+    width="900"
+  />
+</p>
